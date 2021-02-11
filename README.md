@@ -1,7 +1,3 @@
-# Getting Started with Create React App
+## Twitchish app
 
 Try the app [Deploy coming soon](https://).
-
-## Available Scripts
-
-### `npm start`

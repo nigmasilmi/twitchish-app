@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "Some ",
+      "description": "Some stream described here",
+      "id": 4
+    },
+    {
+      "title": "Stream number",
+      "description": "Some stream number tal",
+      "id": 5
+    },
+    {
+      "title": "huhuhu",
+      "description": "mine mined",
+      "id": 6
+    },
+    {
+      "title": "Interestingggg",
+      "description": "Behavior",
+      "id": 7
+    },
+    {
+      "title": "Hello",
+      "description": "Hola mundo",
+      "userId": "113817576362413678787",
+      "id": 8
+    }
+  ]
+}
